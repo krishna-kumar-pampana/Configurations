@@ -1,1 +1,3 @@
-# Agular Material
+# Install Angular Material 
+ng add @angular/material
+
